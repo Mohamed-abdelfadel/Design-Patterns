@@ -11,7 +11,7 @@ The intent of the Builder pattern is to:
 - Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 - Construct an object step by step, allowing finer control over the construction process.
 ## Class Diagram
-![Builder Design Pattern Class Diagram](Builder.png)
+![Builder Design Pattern Class Diagram](src/Builder.png)
 ## Participants
 
 1. **Builder:** An interface or an abstract class that defines the construction steps for creating the product.
